@@ -1,0 +1,18 @@
+# Case study using HMP data: Buccal Mucosa and Tongue Dorsum
+This tutorial is aimed at showing researchers how to conduct different comparative metagenomic analyses. The methods shown here are shown in the book chapter:
+**Comparative Metagenomics**, part of Comparative Genomics, Methods in Molecular Biology edited by Setubal, Stadler, Stoye. 2016. 
+
+Contributors:
+- Andrew Maltez Thomas
+- Felipe Prata Silva
+- Livia Moura
+
+Table of contents
+### Pre-processing the data
+[HTML](preprocess.html)   [PDF](preprocess.pdf) 
+
+### Analysis for Figure 1A-C
+[HTML](figure1AC.html)   [PDF](figure1AC.pdf)
+
+### Analysis for Figure 1D-E
+[HTML](figure1DE.html)   [PDF](figure1DE.pdf)
