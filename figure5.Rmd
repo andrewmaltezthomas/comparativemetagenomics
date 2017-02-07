@@ -1,9 +1,4 @@
----
-title: "Analysis for figure 5"
-output:
-  html_document:
-    theme: default
----
+#Analysis for figure 5
 
 This tutorial shows how we conducted differential abundance analysis (KEGG modules and pathways) on TD and BM shotgun data from the HMP. 
 
