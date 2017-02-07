@@ -1,9 +1,4 @@
----
-title: "Analysis for figure 1"
-output:
-  html_document:
-    theme: default
----
+#Analysis for figure 1
 
 **All of the code in this page is meant to be run on the command line unless otherwise stated.**
 These are the commands we used to generate sample/sequence rarefaction curves and calculate different alpha diversity metrics:
