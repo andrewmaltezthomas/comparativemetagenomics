@@ -15,14 +15,14 @@ Contributors:
 
 * Livia Moura -> liviam.moura@gmail.com
 
-[**Pre-processing the data**](http://rstudio.lbi.iq.usp.br/file_show?path=%2Fwork%2Fcometachapter%2Fdata%2FTutorial%2Fpreprocess.html)
+[**Pre-processing the data**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/preprocess.rmd)
 
-[**Analysis for Figure 1**](http://rstudio.lbi.iq.usp.br/file_show?path=%2Fwork%2Fcometachapter%2Fdata%2FTutorial%2Ffigure1.html)
+[**Analysis for Figure 1**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/figure1.Rmd)
 
-[**Analysis for Figure 2**](http://rstudio.lbi.iq.usp.br/file_show?path=%2Fwork%2Fcometachapter%2Fdata%2FTutorial%2Ffigure2.html)
+[**Analysis for Figure 2**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/figure2.Rmd)
 
-[**Analysis for Figure 3**](http://rstudio.lbi.iq.usp.br/file_show?path=%2Fwork%2Fcometachapter%2Fdata%2FTutorial%2Ffigure3.html)
+[**Analysis for Figure 3**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/figure3.Rmd)
 
-[**Analysis for Figure 4**](http://rstudio.lbi.iq.usp.br/file_show?path=%2Fwork%2Fcometachapter%2Fdata%2FTutorial%2Ffigure4.html)
+[**Analysis for Figure 4**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/figure4.Rmd)
 
-[**Analysis for Figure 5**](http://rstudio.lbi.iq.usp.br/file_show?path=%2Fwork%2Fcometachapter%2Fdata%2FTutorial%2Ffigure5.html)
+[**Analysis for Figure 5**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/figure5.Rmd)
