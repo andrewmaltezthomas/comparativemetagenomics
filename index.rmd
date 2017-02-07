@@ -1,0 +1,28 @@
+![](LBI-header-grande.png)
+
+# Case study using the Human Microbiome Project's data
+This tutorial is aimed at showing researchers how to conduct different comparative metagenomic analyses. We compared microbial communities of 20 individuals obtained from the HMP. We downloaded 16S V3-V5 and shotgun pre-processed data from 10 buccal mucosa (BM) samples and 10 tongue dorsum (TD) samples using the HMP's data access browser.
+
+The methods shown here were used in the book chapter:
+
+**Comparative Metagenomics**, part of Comparative Genomics, [_Methods in Molecular Biology_](http://www.springer.com/series/7651) edited by Setubal, Stadler, Stoye. 2017
+
+Contributors:
+
+* [Andrew Maltez Thomas](http://andrewmaltezthomas.wordpress.com) -> andrewmaltezthomas@gmail.com
+
+* Felipe Prata Silva -> felipepratalima@gmail.com
+
+* Livia Moura -> liviam.moura@gmail.com
+
+[**Pre-processing the data**](http://rstudio.lbi.iq.usp.br/file_show?path=%2Fwork%2Fcometachapter%2Fdata%2FTutorial%2Fpreprocess.html)
+
+[**Analysis for Figure 1**](http://rstudio.lbi.iq.usp.br/file_show?path=%2Fwork%2Fcometachapter%2Fdata%2FTutorial%2Ffigure1.html)
+
+[**Analysis for Figure 2**](http://rstudio.lbi.iq.usp.br/file_show?path=%2Fwork%2Fcometachapter%2Fdata%2FTutorial%2Ffigure2.html)
+
+[**Analysis for Figure 3**](http://rstudio.lbi.iq.usp.br/file_show?path=%2Fwork%2Fcometachapter%2Fdata%2FTutorial%2Ffigure3.html)
+
+[**Analysis for Figure 4**](http://rstudio.lbi.iq.usp.br/file_show?path=%2Fwork%2Fcometachapter%2Fdata%2FTutorial%2Ffigure4.html)
+
+[**Analysis for Figure 5**](http://rstudio.lbi.iq.usp.br/file_show?path=%2Fwork%2Fcometachapter%2Fdata%2FTutorial%2Ffigure5.html)
