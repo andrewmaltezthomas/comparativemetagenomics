@@ -1,9 +1,5 @@
----
-title: "Pre-processing"
-output:
-  html_document:
-    theme: default
----
+#Pre-processing
+
 ### Download, filter and parse data
 
 **All of the code in this page is meant to be run on the command line unless otherwise stated.** 
