@@ -5,7 +5,7 @@ This tutorial is aimed at showing researchers how to conduct different comparati
 
 The methods shown here were used in the book chapter:
 
-**Comparative Metagenomics**, part of Comparative Genomics, [_Methods in Molecular Biology_](http://www.springer.com/series/7651) edited by Setubal, Stadler, Stoye. 2017
+[**Comparative Metagenomics**](https://link.springer.com/protocol/10.1007%2F978-1-4939-7463-4_8), part of Comparative Genomics, _Methods in Molecular Biology_ edited by Setubal, Stadler, Stoye. 2017.
 
 Contributors:
 
