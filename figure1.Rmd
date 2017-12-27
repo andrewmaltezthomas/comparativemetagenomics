@@ -1,7 +1,7 @@
-#Analysis for figure 1
+# Analysis for figure 1
 
 **All of the code in this page is meant to be run on the command line unless otherwise stated.**
-These are the commands we used to generate sample/sequence rarefaction curves and calculate different alpha diversity metrics:
+These are the commands we used to generate sample/sequence rarefaction curves and calculate different alpha diversity metrics using qiime:
 ```{r eval=FALSE, engine='bash'}
 # Convert table to biom format
 biom convert -i OTU-Table-16S.tsv -o OTU-Table-16S.biom --table-type="OTU table" --to-json --process-obs-metadata taxonomy
