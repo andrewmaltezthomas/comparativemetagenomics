@@ -1,4 +1,4 @@
-#Analysis for figure 2
+# Analysis for figure 2
 
 **All of the code in this page is meant to be run in R unless otherwise stated.**
 These are the commands we used to calculate and generate boxplots for gene and genera richness. We would like to point out that it's not possible to reproduce the steps used to calculate the total number of genera analyzed via MG-RAST because of changes to their online platform, whereby [hierarchical .tsv abundance files were no longer being generated.](https://groups.google.com/d/topic/mg-rast/ft-jFL3MTrk/discussion)
