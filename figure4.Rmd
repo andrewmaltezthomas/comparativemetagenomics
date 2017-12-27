@@ -1,4 +1,4 @@
-#Analysis for figure 4
+# Analysis for figure 4
 
 This tutorial shows how we conducted differential abundance analysis (taxons) on TD and BM shotgun data from the HMP. 
 
