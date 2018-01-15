@@ -45,8 +45,6 @@ done > Abundance_mo.txt
 
 **In R**. Calculate differential abundance statistics:
 ```{r eval=FALSE}
-setwd("/work/cometachapter/data/felipe/Figure5/")
-
 library(curl)
 library(tidyr)
 library(gplots)
