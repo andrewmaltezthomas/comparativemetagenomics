@@ -16,9 +16,10 @@ Contributors:
 * Livia Moura -> liviam.moura@gmail.com
 
 ## System Requirements:
-* _Qiime_(version < 2.0)
-* R 
-* vegan
+* _Qiime_ (version < 2.0)
+* [R](https://www.r-project.org) 
+* R packages: vegan, phyloseq, ggplot2, plyr, reshape2
+* [Biom](http://biom-format.org/index.html)
 
 [**Pre-processing the data**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/preprocess.rmd)
 
