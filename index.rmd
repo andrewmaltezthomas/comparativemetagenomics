@@ -20,6 +20,7 @@ Contributors:
 * [R](https://www.r-project.org) 
 * **R packages:** vegan, phyloseq, ggplot2, plyr, reshape2, tidyr, curl, gplots
 * [Biom](http://biom-format.org/index.html)
+* [LEfSe](https://bitbucket.org/biobakery/biobakery/wiki/lefse#rst-header-lefse-brew-docker-vm)
 
 [**Pre-processing the data**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/preprocess.rmd)
 
