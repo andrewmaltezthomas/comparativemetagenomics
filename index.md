@@ -23,14 +23,14 @@ Contributors:
 
 ## Analyses:
 
-[**Pre-processing the data**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/preprocess.rmd)
+[**Pre-processing the data**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/preprocess.md)
 
-[**Analysis for Figure 1**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/figure1.Rmd)
+[**Analysis for Figure 1**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/figure1.md)
 
-[**Analysis for Figure 2**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/figure2.Rmd)
+[**Analysis for Figure 2**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/figure2.md)
 
-[**Analysis for Figure 3**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/figure3.Rmd)
+[**Analysis for Figure 3**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/figure3.md)
 
-[**Analysis for Figure 4**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/figure4.Rmd)
+[**Analysis for Figure 4**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/figure4.md)
 
-[**Analysis for Figure 5**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/figure5.Rmd)
+[**Analysis for Figure 5**](https://github.com/andrewmaltezthomas/comparativemetagenomics/blob/master/figure5.md)
